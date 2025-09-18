@@ -92,3 +92,10 @@ layout: default
 
 　　最后，放轻松！多米尼克人不算多，网络压力不大。选好卡，设置对，你就能在旅途中随时分享你的冒险了。享受你的自然之岛之旅吧！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Dominica SIM 卡购买与激活指南](https://faciylike.github.io/dominica-sim-guides)
